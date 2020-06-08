@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thedeviner/static/css/main.11d7ffcd.chunk.css",
+    "main.css": "/thedeviner/static/css/main.e50aafcb.chunk.css",
     "main.js": "/thedeviner/static/js/main.de4a7d10.chunk.js",
     "main.js.map": "/thedeviner/static/js/main.de4a7d10.chunk.js.map",
     "runtime-main.js": "/thedeviner/static/js/runtime-main.135994c3.js",
@@ -8,16 +8,16 @@
     "static/js/2.1a656e96.chunk.js": "/thedeviner/static/js/2.1a656e96.chunk.js",
     "static/js/2.1a656e96.chunk.js.map": "/thedeviner/static/js/2.1a656e96.chunk.js.map",
     "index.html": "/thedeviner/index.html",
-    "precache-manifest.e0e262f9d83ee0e4d88415408cccaf41.js": "/thedeviner/precache-manifest.e0e262f9d83ee0e4d88415408cccaf41.js",
+    "precache-manifest.0ca9ad0639bdf8f7b80a74aee29fafef.js": "/thedeviner/precache-manifest.0ca9ad0639bdf8f7b80a74aee29fafef.js",
     "service-worker.js": "/thedeviner/service-worker.js",
-    "static/css/main.11d7ffcd.chunk.css.map": "/thedeviner/static/css/main.11d7ffcd.chunk.css.map",
+    "static/css/main.e50aafcb.chunk.css.map": "/thedeviner/static/css/main.e50aafcb.chunk.css.map",
     "static/js/2.1a656e96.chunk.js.LICENSE.txt": "/thedeviner/static/js/2.1a656e96.chunk.js.LICENSE.txt",
     "static/media/deviner.jpg": "/thedeviner/static/media/deviner.8d406845.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.135994c3.js",
     "static/js/2.1a656e96.chunk.js",
-    "static/css/main.11d7ffcd.chunk.css",
+    "static/css/main.e50aafcb.chunk.css",
     "static/js/main.de4a7d10.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00a06f7ed7b2001daa827c19c0e0030c",
+    "revision": "487b69e9b59f9db8dd3321de58f12dac",
     "url": "/thedeviner/index.html"
   },
   {
-    "revision": "3a7682231e2e3fb9d3ea",
-    "url": "/thedeviner/static/css/main.11d7ffcd.chunk.css"
+    "revision": "341af54c9b167ce0db76",
+    "url": "/thedeviner/static/css/main.e50aafcb.chunk.css"
   },
   {
     "revision": "bbba066cbe785dfbaf3c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thedeviner/static/js/2.1a656e96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a7682231e2e3fb9d3ea",
+    "revision": "341af54c9b167ce0db76",
     "url": "/thedeviner/static/js/main.de4a7d10.chunk.js"
   },
   {
